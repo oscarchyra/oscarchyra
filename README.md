@@ -1,6 +1,7 @@
 ### Hi there 👋
-🌱 I’m currently learning: haven#t decidet yet haha
-📫 How to reach me: Instagram @oscarchyra
+°🌱 I’m currently learning: haven#t decidet yet haha
+
+°📫 How to reach me: Instagram @oscarchyra
 <!--
 **oscarchyra/oscarchyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
